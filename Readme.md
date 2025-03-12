@@ -15,4 +15,3 @@ Esta es una pequeña introducion al primer examen de COD de la segunda evaluacio
 - `git clone`: Para clonar el repositorio en mi máquina local.
 - `git checkout`: Para cambiar entre ramas.
 - `git merge`: Para fusionar las ramas.
-- `git tag v1.0`: Para etiquetar el commit final
