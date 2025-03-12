@@ -15,3 +15,6 @@ Esta es una pequeña introducion al primer examen de COD de la segunda evaluacio
 - `git clone`: Para clonar el repositorio en mi máquina local.
 - `git checkout`: Para cambiar entre ramas.
 - `git merge`: Para fusionar las ramas.
+
+## Decisiones Tomadas
+Se decidió omitir el último commit de la rama `interface` debido a que contiene código no deseado que no es parte de la versión estable.
